@@ -1,8 +1,9 @@
 # Terminal Portfolio Website by Jai Li
 
-![Terminal Portfolio Website by Jai Li](https://user-images.githubusercontent.com/53733092/194220661-e2ff8b4c-f64a-4b64-a836-c52fae6bbcda.png)
+![Terminal Portfolio Website by Jai Li](https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/9930503e-294a-4dbe-a800-92f1ccc307c8)
 
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue?style=flat-square)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/81fdb91d-c06f-46c2-b18d-dfc6f090f281/deploy-status)](https://app.netlify.com/sites/terminal-sn/deploys)
 ![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)
 
@@ -30,7 +31,12 @@ My perfolio website in terminal version developed with React, TypeScript and Sty
 ## Multiple Themes
 
 Currently, this website supports 6 themes. Type `themes` in the terminal for more info.
-![terminal-portfolio-themes](https://user-images.githubusercontent.com/53733092/194221801-94f1c28b-4865-4b7f-a73e-d41132519bea.png)
+![terminal-portfolio-themes](https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/9930503e-294a-4dbe-a800-92f1ccc307c8)
+![terminal-portfolio-themes](https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/94d201ca-c2e4-428e-bbb2-05ac97d7e839)
+![terminal-portfolio-themes](https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/fb569bf2-64da-4f97-ac36-dea7ae1a5567)
+![terminal-portfolio-themes](https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/63e1b643-3fa8-4868-92eb-a962aa828864)
+![terminal-portfolio-themes](https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/6690264a-584e-4c89-80b7-6fe913c89f70)
+![terminal-portfolio-themes](https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/e7592fde-1a32-41b2-88c7-0309dcf5725a)
 
 ## Lighthouse Score
 
