@@ -42,6 +42,7 @@ const Output: React.FC<Props> = ({ index, cmd }) => {
           gui: <Gui />,
           help: <Help />,
           history: <History />,
+          projects: <Projects />,
           pwd: <GeneralOutput>/home/satnaing</GeneralOutput>,
           socials: <Socials />,
           themes: <Themes />,
