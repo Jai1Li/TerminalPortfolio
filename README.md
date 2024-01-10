@@ -1,8 +1,11 @@
 # Terminal Portfolio Website by Jai Li
 
-![Terminal Portfolio Website by Jai Li](https://user-images.githubusercontent.com/53733092/194220661-e2ff8b4c-f64a-4b64-a836-c52fae6bbcda.png)
+![Terminal Portfolio Website by Jai Li](<img width="1517" alt="image" src="https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/9930503e-294a-4dbe-a800-92f1ccc307c8">
+)
 
-![ts](https://badgen.net/badge/Built%20With/TypeScript/blue?style=flat-square)
+![ts](https://badgen.net/badge/Built%20With/TypeScript/blue?style=flat-square)![Uploading image.png…]()
+![Uploading image.png…]()
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/81fdb91d-c06f-46c2-b18d-dfc6f090f281/deploy-status)](https://app.netlify.com/sites/terminal-sn/deploys)
 ![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)
 
