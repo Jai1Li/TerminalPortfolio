@@ -1,6 +1,6 @@
 # Terminal Portfolio Website by Jai Li
 
-![Terminal Portfolio Website by Jai Li](<img width="1517" alt="image" src="https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/9930503e-294a-4dbe-a800-92f1ccc307c8">
+![Terminal Portfolio Website by Jai Li](https://github.com/Jai1Li/TerminalPortfolio/assets/40412192/9930503e-294a-4dbe-a800-92f1ccc307c8)
 )
 
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue?style=flat-square)![Uploading image.png…]()
