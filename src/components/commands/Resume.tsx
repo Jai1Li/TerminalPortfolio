@@ -1,29 +1,21 @@
-import React, { useEffect, useState } from 'react';
-import {
-  AboutWrapper,
-} from '../styles/About.styled';
+import { useContext } from "react";
+import _ from "lodash";
+import { termContext } from "../Terminal";
 
 const Resume: React.FC = () => {
-  const [resumeOpened, setResumeOpened] = useState(false);
+  const { history, rerender } = useContext(termContext);
+  /* ===== get current command ===== */
+  const currentCommand = _.split(history[0], " ");
 
-  useEffect(() => {
-    const openResumeInNewTab = () => {
-      if (!resumeOpened) {
-        // Replace 'URL_TO_YOUR_RESUME' with the actual URL to your resume
-        const resumeUrl = 'https://drive.google.com/file/d/1c81EzWrC7PDJ9Rn45rgD1z7VzEZrt-oU/view?usp=sharing';
-        window.open(resumeUrl, '_blank');
-        setResumeOpened(true);
-      }
-    };
-
-    // Open the resume when the component mounts
-    openResumeInNewTab();
-  }, [resumeOpened]);
+  /* ===== check current command makes redirect ===== */
+  if (rerender && currentCommand[0] === "resume") {
+    window.open("https://drive.google.com/file/d/1c81EzWrC7PDJ9Rn45rgD1z7VzEZrt-oU/view?usp=sharing", "_blank");
+  }
 
   return (
-    <AboutWrapper data-testid="resume">
+    <span data-testid="resume">
       <p>Please feel free to contact me through Linkedin, email, or give me a call!</p>
-    </AboutWrapper>
+    </span>
   );
 };
 

@@ -1,6 +1,5 @@
 import { useContext, useEffect } from "react";
 import {
-  checkRedirect,
   getCurrentCmdArry,
   isArgInvalid,
 } from "../../utils/funcs";

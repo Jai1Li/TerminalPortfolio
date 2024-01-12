@@ -22,7 +22,7 @@ const eduBg = [
   },
   {
     title: "B.S in Computer Science",
-    desc: "Virginia Commonwealth University | 2019 - 2022",
+    desc: "Virginia Commonwealth University | 2020 - 2022",
   }
 ];
 
